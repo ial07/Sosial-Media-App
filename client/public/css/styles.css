@@ -1,0 +1,42 @@
+.bg-default-img {
+  background-image: url("/img/pedes.jpg");
+  background-size: 100%;
+  height: 150px;
+  text-shadow: 2px 2px 8px rgb(99, 99, 99);
+}
+
+.logo {
+  text-shadow: 2px 2px yellow;
+  font-weight: bold;
+}
+
+.linkko {
+  text-shadow: 2px 2px rgba(130, 152, 201, 0.247);
+  font-weight: 700;
+  background-color: rgba(206, 206, 206, 0.253);
+  border-radius: 25px;
+  margin-left: 5px;
+  margin-left: 5px;
+}
+
+.account-menu-btn {
+  float: right;
+}
+
+.image-post {
+  background-repeat: "no-repeat";
+  background-position: "center center";
+  background-size: "cover";
+  height: "300px";
+}
+
+.change-photo {
+  font-size: 10px;
+}
+.change-photo:hover {
+  cursor: pointer;
+}
+
+.cardPublicPost {
+  cursor: pointer;
+}
